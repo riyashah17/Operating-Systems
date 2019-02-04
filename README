@@ -1,9 +1,3 @@
-STUDENT ID: 201601064	
-STUDENT NAME: RIYA SHAH
-
-File Included: os_lab1.cpp
-
-Description: 
 This file contains the source code for implementation of a simulator of a CPU Scheduler with three different scheduling algorithms: 
 1) First Come First Serve (FCFS)
 2) Shortest Job First (SJF)
