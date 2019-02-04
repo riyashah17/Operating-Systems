@@ -6,7 +6,7 @@ This file contains the source code for implementation of a simulator of a CPU Sc
 Whenever a task is scheduled, the simulator will print out what task is selected to run at every unit time according to the scheduling algorithm selected. After all the tasks are over, it calculates the Average reponse time, Average waiting time and Average turnaround time and prints it. 
 
 Instructions: 
-Compile: g++ os_lab1.cpp -o os_lab1
-Run: ./os_lab1 [input_file] [FCFS/SJF/RR] [time_quantum]
+Compile: g++ Scheduler.cpp -o Scheduler
+Run: ./Scheduler [input_file] [FCFS/SJF/RR] [time_quantum]
 
 Note: Last argument is needed only for RR.  
